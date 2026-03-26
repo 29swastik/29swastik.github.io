@@ -1,7 +1,7 @@
 ---
 title: "What People Are Not Telling You Is That Cache-Augmented Generation (CAG) Is the Same as Prompt Caching"
 date: 2025-06-17 00:00:00 +0000
-categories: [LLM, Transformers, RAG]
+categories: [Transformers, LLM, RAG]
 tags: [cag, prompt-caching, kv-cache, rag, llm]
 pin: true
 math: true
