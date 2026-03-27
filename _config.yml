@@ -16,7 +16,7 @@ timezone:
 
 title: Swastik K # the main title
 
-tagline: Staff AI Engineer, AI Agents, NLP, Machine Learning # it will display as the subtitle
+tagline: Staff AI Engineer, AI Agents, MLOps, Machine Learning # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   AI Engineer building production AI Agents, RAG systems, traditional machine learning models and building reliable ML systems in production.
